@@ -1,0 +1,87 @@
+wallch (4.187-0~213~ubuntu15.04.1) vivid; urgency=low
+
+  * Auto build.
+
+ -- Wallch Team <wallch.developers@gmail.com>  Wed, 26 Aug 2015 14:31:53 +0000
+
+wallch (4.187-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Mon, 17 Nov 2014 00:16:47 +0300
+
+wallch (4.186-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Wed, 12 Nov 2014 01:13:40 +0300
+
+wallch (4.185-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Mon, 10 Nov 2014 15:41:23 +0300
+
+wallch (4.184-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Fri, 7 Nov 2014 23:44:15 +0300
+
+wallch (4.183-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Fri, 31 Oct 2014 01:32:12 +0300
+
+wallch (4.182-1utopic) utopic; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Thu, 30 Oct 2014 22:11:46 +0300
+
+wallch (4.181-1trusty) trusty; urgency=low
+
+  * New upstream version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Sat, 11 Oct 2014 22:24:07 +0300
+
+wallch (4.16-1trusty) trusty; urgency=low
+
+  * Fixed program version.
+  * Small bug fix.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Mon, 21 Jul 2014 18:55:06 +0300
+
+wallch (4.14-1trusty) trusty; urgency=low
+
+  * Fixed average color not updating in mainwindow.
+  * Fixed live website crashing on crop.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Mon, 16 Jun 2014 16:15:04 +0300
+
+wallch (4.13-1trusty) trusty; urgency=low
+
+  * Fixed Mint 17 crashing when XDG_CURRENT_DESKTOP is set to default.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Mon, 16 Jun 2014 14:53:51 +0300
+
+wallch (4.12-1trusty) trusty; urgency=low
+
+  * Fixed Cinnamon bug in some other cases as well.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Thu, 12 Jun 2014 20:14:24 +0300
+
+wallch (4.11-1trusty) trusty; urgency=low
+
+  * Fixed app version.
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Wed, 11 Jun 2014 23:30:05 +0300
+
+wallch (4.10-1trusty) trusty; urgency=low
+
+  * Fixed Start button crashing the app (LP: #1284128)
+  * Fixed Live Website not starting in startup (LP: #1307150)
+  * Fixed Wallch crash under Cinnamon on startup (LP: #1323574)
+
+ -- Alex Solanos <alexsol.developer@gmail.com>  Thu, 05 Jun 2014 22:59:58 +0300

@@ -1,0 +1,42 @@
+Source: wallch
+Section: utils
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+XSBC-Original-Maintainer: Alex Solanos <alexsol.developer@gmail.com>
+Build-Depends: debhelper (>= 8),
+               qt5-qmake,
+               libqt5core5a,
+               libqt5widgets5,
+               qttools5-dev-tools,
+               libqt5network5,
+               libnotify-dev,
+               libunity-dev,
+               libgtk2.0-dev,
+               libdee-dev,
+               libexif-dev,
+               libappindicator-dev,
+               libglib2.0-dev,
+               qtdeclarative5-dev,
+               libqt5opengl5-dev,
+               libsqlite3-dev,
+               libxslt1-dev,
+               libqt5webkit5-dev
+Standards-Version: 3.9.5
+Homepage: http://melloristudio.com/wallch/
+
+Package: wallch
+Architecture: any
+Depends: unzip,
+         ${misc:Depends},
+         ${shlibs:Depends}
+Description: wallpaper changer
+ Wallch is a wallpaper changer for keeping your desktop
+ fresh and new. The following Desktop Environments are supported:
+ Gnome (with or without Unity integration), LXDE, XFCE and Mate.
+ .
+ Main Features:
+  - Wallpaper Changing - through a monitored folder
+  - Live Earth - a live picture of the earth changing every half an hour
+  - Picture Of The Day - chosen by wikipedia, changing daily
+  - Live Website - wallpaper any webpage you wish, login supported
+  - Wallpaper Clocks - wallpapers that tell you the time and date
